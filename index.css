@@ -62,14 +62,47 @@
 	padding-left: 12px;
 	color: gray;
 }
+
 .sub_row{
 	font-size: 10px;
-	padding-left: 10px;
+	padding-left: 20px;
 	padding-bottom: 3px;
-	color: gray
+	color: gray;
 }
 
 .border{
 	border-left: 2px solid white;
 	padding-left: 7px;
 }
+.MainFooter{
+	border-top: 3px solid #8D90A1;
+	padding-top: 7px;
+}
+.footer{
+	padding-bottom: 7px;
+}
+.links{
+	display: inline-block;
+	font-size: 9px;
+}
+.links.border{
+	border-left: 2px solid black;
+}
+.links:first-of-type{
+	padding-left: 20%;
+}
+.sbox{
+	background-color: white;
+	width:150px;
+	height:12px;
+}
+.search{
+	position: relative; 
+	display: inline-block;
+	color:gray;		 
+}
+.sfooter{ 
+	padding-left: 30%;
+	}
+
+
